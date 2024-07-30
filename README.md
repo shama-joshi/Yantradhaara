@@ -1,0 +1,2 @@
+->Main aim of this project is to help farmers in their agricultural needs/online market place for farm equipments.
+->It helps individual farmers willing to provide their agriculture machinery on rental basis to increase their farm incomes.
